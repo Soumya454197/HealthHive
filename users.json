@@ -1,0 +1,145 @@
+{
+  "Vinay K Rajith": {
+    "address": "A-26, Narvihar-1",
+    "gender": "male",
+    "state": "Kerala",
+    "dob": "2024-09-17",
+    "pincode": "201307",
+    "email": "vinaykrajith@gmail.com",
+    "father_name": "asd",
+    "city": "Kanchipuram",
+    "password": "pbkdf2:sha256:260000$csPwYyp9mw7YfbjY$ba1dfb24603aa4cfc72ba5d923e545d49fad966ea9ca3552dedf90585fede9d5"
+  },
+  "akdjsakdjas": {
+    "address": "asdsad",
+    "gender": "others",
+    "state": "asdas",
+    "dob": "2024-10-02",
+    "pincode": "123123",
+    "email": "vinaykrajith@gmail.com",
+    "father_name": "asd",
+    "city": "Kanchipuram",
+    "password": "pbkdf2:sha256:260000$f3nM5yyPDKXCLMlo$1b54bafd8808f690dc5b52698ed9b6e70fe1c93ef51b2b575fa5676356200a66"
+  },
+  "akqewqwewq": {
+    "address": "Dhoko",
+    "gender": "others",
+    "state": "asdas",
+    "dob": "2024-09-01",
+    "pincode": "123123",
+    "email": "vinaykrajith@gmail.com",
+    "father_name": "asd",
+    "city": "Kanchipuram",
+    "password": "pbkdf2:sha256:260000$HxtgNV5TmPBGG4uC$e7bb1bba16c0e177d98834bc2f622c856dd21637c921750ae508858374b5ef0e"
+  },
+  "Raghav": {
+    "address": "pbkdf2:sha256:260000$OaatVQRMu9tRCRRb$0ab3402bc4a32c94c3fcf9b6fafa1c5ff5cb09f73c20f46b9b10141c900b5846",
+    "gender": "male",
+    "state": "pbkdf2:sha256:260000$mThLpHafSYeZprbp$c96dd571568a644d55281b487a5dca9a46a03231d00558e18780ada0d5c69bad",
+    "dob": "pbkdf2:sha256:260000$gzGRyERQK2eYrx1o$794d776b65d6c8c49c2b5c5fcf3a7800027107802bf9793a39f12a66a6ce115b",
+    "pincode": "pbkdf2:sha256:260000$6WoKVg9e4J709Wcx$ce7abede0a85bc75a97cb241cbc02572c6bfb426d78d23e70c8f62938badd259",
+    "email": "spoc.sih@srmist.edu.in",
+    "father_name": "ghgh",
+    "city": "Kanchipuram",
+    "password": "pbkdf2:sha256:260000$lM08k5sxAdkvdnlN$5ab39f53d4ef73daace01b228a9395f49c54d3165d794aeeef1763b6bd422ef7"
+  },
+  "Masood": {
+    "address": "pbkdf2:sha256:260000$eFVGIQMvoBxechir$2a978e6a891bfc9c5fd4e750a80ada2758bd0a0eedcf01ce97991e379b548cb0",
+    "gender": "male",
+    "state": "pbkdf2:sha256:260000$1ktIGiQuIKOEyjM1$2a25db17e546ad54004ee6658105bdf1e2004e6084bcc7cc78d28e5225cb7e8d",
+    "dob": "pbkdf2:sha256:260000$YD8fHB31m3GOAgHp$fc390a9f6f40424a7f3139cef77caa7e2593739a8b19d80d8b2638f8cefbc97d",
+    "pincode": "pbkdf2:sha256:260000$cnnVR7OhM9xKZ958$acb92ebf93f37b70749e828de73ccf775c0ad27f98c1220c58a2fa162836edb6",
+    "email": "eqweqweqweqweq@fsd.com",
+    "father_name": "asd",
+    "city": "Kanchipuram",
+    "password": "pbkdf2:sha256:260000$IXEHFQZdMrtmklsw$dad983cafbb50d4d9bc19f96c5335640efed8e6bb85ad7ce8aadc9cf89308ca0"
+  },
+  "Ankit Ghosh": {
+    "address": "pbkdf2:sha256:260000$xcRfh3yMCFiA5LI8$a5f5cdffa452dadc70c8cb5191928b794256afcf11cd48d1d32e10880b27c168",
+    "gender": "male",
+    "state": "pbkdf2:sha256:260000$qfa5fQH8noc848N6$2aae137353b2bfe499fa5702527ede0203ae5ef3c84c89b9faf9e009bc8a8f4d",
+    "dob": "pbkdf2:sha256:260000$Bcezv70ABaht38ln$3531cea29f46cfb895bd1d559eadcf1f26bdf911d6267a3ab69e655b2be3672a",
+    "pincode": "pbkdf2:sha256:260000$xR620AukOYSRKxQq$1d51d68acb07e805ede1464c4d45823c162b40cdc6da2159c846c6d4e8147227",
+    "email": "eqweqweqweqweq@fsd.com",
+    "father_name": "asd",
+    "city": "Kanchipuram",
+    "password": "pbkdf2:sha256:260000$qLnSK4jrEwiVLTWj$566356a970381bce312feb1d4063427f44bc06328f6ef0e14322060f2cba9869"
+  },
+  "Ravi Kiran": {
+    "address": "pbkdf2:sha256:260000$KJWhasovGa2NlsWQ$64dde0b21014de9a9369b1b85017fbd54175a4cf91a5325cc8c193ef94ac6277",
+    "gender": "male",
+    "state": "pbkdf2:sha256:260000$vkaHelZ8rAyWWhpR$07c5e74c18ed5e4043eb05ea184e9655060b01424a3b5b6188f31c262b3be47e",
+    "dob": "pbkdf2:sha256:260000$CIdRP97D6o5WyTUQ$75649dee5efb46e8924b8902dc4ecec3e2516e32e48d808e157d0580ef856b16",
+    "pincode": "pbkdf2:sha256:260000$d7UrvOOrTNJkioWL$b9dee3f271e984012520c535bc7987d845fd78c74a0af04a37467bc3a76d6305",
+    "email": "eqweqweqweqweq@fsd.com",
+    "father_name": "asd",
+    "city": "Kanchipuram",
+    "password": "pbkdf2:sha256:260000$EyXuN2ssIJh9H6BT$91b2225c34344379b2cc0ab73c60d6bab369e6ce22afa88c1f58b06453ce1ee5"
+  },
+  "manjusha": {
+    "address": "pbkdf2:sha256:260000$Fbi2d3S31TkaEqkC$07661187aa3c306c72fb6ae60677d6e27ae4057c133235ecbb8bb5e7c2c21474",
+    "gender": "female",
+    "state": "pbkdf2:sha256:260000$DqEoEGzcVGn7Loml$55c7a480ce772efb39a994a891bd2236aba4db22212e881de85a534f73256c9d",
+    "dob": "pbkdf2:sha256:260000$hV2siodc7JSm9waQ$a089a892103b1e8a8ef6de2b36d31d3e4872b8b515f3d625914049bd1e4e99dc",
+    "pincode": "pbkdf2:sha256:260000$KAjocXYxYRci42Os$eaef93aa2ea7781ff15e0fcc47b1beb5d14be1ceda4fd44ce2bc7ac014d8e1fc",
+    "email": "eqweqweqweqweq@fsd.com",
+    "father_name": "asd",
+    "city": "Kanchipuram",
+    "password": "pbkdf2:sha256:260000$pT8XDH4q8G5ynk7n$f991fc16f8f1ab76bbc7f9e2dc67b91e0dda3b69005f6fa24f50777bb5d209f6"
+  },
+  "sdadasd": {
+    "address": "pbkdf2:sha256:260000$C7i2Jc8qR7WsspEj$3838c25b96386ed31d216b56157741ac0890d1f84c90395c53db1e01a4f9de13",
+    "gender": "female",
+    "state": "pbkdf2:sha256:260000$6tWQJwcgTQjcGnfT$8f40e8912806526c3bddd81a79c26881a7f1450d356abaf4653b36c99cb7053f",
+    "dob": "pbkdf2:sha256:260000$ro5l3xPz25xtZ1jT$1aaf39d14451b140d9450f6b29c003bead22754a86349a93a1731f9b087d74a4",
+    "pincode": "pbkdf2:sha256:260000$USBDen7gGYBeTTBN$6824350b4ce0172e0946c056858c8befac51cd00f49dd3fddbe75b74d19c405a",
+    "email": "eqweqweqweqweq@fsd.com",
+    "father_name": "asd",
+    "city": "Kanchipuram",
+    "password": "pbkdf2:sha256:260000$X9n53aWHCiYddfaQ$47c8b8c1fc8ef194e61ecc56147da6f0eda0190878198e29275adca95c588c7b"
+  },
+  "Kushagra": {
+    "address": "pbkdf2:sha256:260000$aai7keUthJmVxyiQ$6f92ddf2f572d1cec6357daffeeae7f8b59492f173bd8aa56734ffc2733e743c",
+    "gender": "male",
+    "state": "pbkdf2:sha256:260000$1XoDjTCPPImQTB5z$2e7848810298e8832c557631debf99d817376d34d1e4aad19dcf17ad8378e320",
+    "dob": "pbkdf2:sha256:260000$qAykDOOBqZ2CWCGO$ecf1453986f9f1d44853b5df25d590f31ff7e742028d1ffaad2181d75b51e44b",
+    "pincode": "pbkdf2:sha256:260000$VtxAhqBJ2q1WZknU$5fcb7228ba516cb5523bd2935c2b354d62de72287fccea19430add68e1496749",
+    "email": "eqweqweqweqweq@fsd.com",
+    "father_name": "asd",
+    "city": "Kanchipuram",
+    "password": "pbkdf2:sha256:260000$0qrSDsJW8sFB7fxD$13295c0ea3578a273d2ea36f5ab903dbe51b26a8c525b30c997793e0b1cdd3ae"
+  },
+  "Saad": {
+    "address": "pbkdf2:sha256:260000$FDj06Tr0sg4JSaoD$02569a809f3ae010283d058f0b6876c1087c18eaaa60ff4913848a136d5ff74f",
+    "gender": "male",
+    "state": "pbkdf2:sha256:260000$jdOttHGsUal5bRy3$1360b7f00a4f077c492eb1add7bb6d0edc6e45fa916b36d9868050cf46df37c6",
+    "dob": "pbkdf2:sha256:260000$nnciYZYgQoUiAa0V$70f0bd969a50778078dd3450cab8df8ccefb3b83a1e1407bcc1c9b776841669a",
+    "pincode": "pbkdf2:sha256:260000$72HukQanqNtYCpGh$63da9f4cf782a2dc24a9b7607bf298fb1267f9a5dece9307ff0ad926fe1fe3a0",
+    "email": "eqweqweqweqweq@fsd.com",
+    "father_name": "asd",
+    "city": "Kanchipuram",
+    "password": "pbkdf2:sha256:260000$6MmJOS7dH6DbDKQN$5fb0331f72a71057186901043769fd0d1b880f3c4f81b97aa3144e4432d0b6ff"
+  },
+  "Alex": {
+    "address": "pbkdf2:sha256:260000$G4xeNvqOZEv5mHDW$453b4fdd86e6450f1a82dc1e5816307845e2bfb0ad1f035f496e82877ae36f9b",
+    "gender": "female",
+    "state": "pbkdf2:sha256:260000$pVti7P5HvOqSy1gW$405ddf6355e5a8421e6df1394186dfaa471d20d551f465022200ff05e145d894",
+    "dob": "pbkdf2:sha256:260000$RxI4cUNoINmVW7US$2cee8829c3d772d69d9023ad0d852d30e5d827e1719a2a2be30a395a702c8130",
+    "pincode": "pbkdf2:sha256:260000$wqLzB6fE1HUcXTvk$26597cfd1368e996f434afb09f3fdd46431feaa4055ab27ac031334820a75cf0",
+    "email": "eqweqweqweqweq@fsd.com",
+    "father_name": "asd",
+    "city": "Kanchipuram",
+    "password": "pbkdf2:sha256:260000$UMP1w5elY3nFhjy0$de6ee91fda4e683cf47c4ec88ea8ed50ba064d4dce3214bddf26615b32394e79"
+  },
+  "Saksham": {
+    "address": "pbkdf2:sha256:260000$Pfv7It00s9OORNkp$ed1d2417eac7a970564d58ab392eb510d4641b48e5a43929dcbdb506ce2da1c9",
+    "gender": "male",
+    "state": "pbkdf2:sha256:260000$B2tWlXdiIFzzzErs$d63096e148fd618074998d3b063fb2cee7ce670f6b98b42b04cc1b9385415037",
+    "dob": "pbkdf2:sha256:260000$Sr75ub9hYDWylKyo$18bc68f8cf78ece622b650b360b2df3c1d77f778b7b1f10347e862d405617a71",
+    "pincode": "pbkdf2:sha256:260000$9WOj5rGLjpOFwfm5$f68b5788e9727d7cc3c1222824c1e0a30f226e3136ebf6df2b820c48b573ec0c",
+    "email": "eqweqweqweqweq@fsd.com",
+    "father_name": "asd",
+    "city": "Kanchipuram",
+    "password": "pbkdf2:sha256:260000$Gpp4avdU9Sz8DIBc$cd500be253f9e615d8bf5ffc8e8a443afcaa19382baa1d005d50764a85cd89c0"
+  }
+}
