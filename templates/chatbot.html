@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>FitLock HealthCare</title>
+    <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
+    <style>
+        .chat-button {
+            position: fixed;
+            bottom: 20px;
+            right: 20px;
+            z-index: 1000;
+        }
+    </style>
+</head>
+<body class="bg-gray-100 font-sans">
+    <header class="bg-blue-600 text-white py-6">
+        <div class="container mx-auto px-4">
+            <h1 class="text-3xl font-bold">FitLock Health Care</h1>
+        </div>
+    </header>
+
+    <main class="container mx-auto px-4 py-8">
+        <section class="bg-white rounded-lg shadow-md p-6 mb-8">
+            <h2 class="text-2xl font-semibold mb-4">Welcome to Our AI Chat Service</h2>
+            <p class="text-gray-700">Experience seamless communication with our AI-powered healthcare chatbot. Click the chat button in the bottom right corner to get started!</p>
+        </section>
+
+        <section class="grid grid-cols-1 md:grid-cols-2 gap-8">
+            <div class="bg-white rounded-lg shadow-md p-6">
+                <h3 class="text-xl font-semibold mb-3">Key Features</h3>
+                <ul class="list-disc list-inside text-gray-700">
+                    <li>24/7 Availability</li>
+                    <li>Instant Responses</li>
+                    <li>Personalized Assistance</li>
+                    <li>Seamless Integration</li>
+                </ul>
+            </div>
+            <div class="bg-white rounded-lg shadow-md p-6">
+                <h3 class="text-xl font-semibold mb-3">How It Works</h3>
+                <ol class="list-decimal list-inside text-gray-700">
+                    <li>Click the chat button</li>
+                    <li>Type your question or request</li>
+                    <li>Receive instant, helpful responses</li>
+                    <li>Enjoy efficient problem-solving</li>
+                </ol>
+            </div>
+        </section>
+    </main>
+
+    <footer class="bg-gray-800 text-white py-4 mt-8">
+        <div class="container mx-auto px-4 text-center">
+            <p>&copy; 2024 FitLock Chat. All rights reserved.</p>
+        </div>
+    </footer>
+
+    <button class="chat-button bg-blue-500 hover:bg-blue-600 text-white font-bold py-2 px-4 rounded-full shadow-lg" onclick="window.botpressWebChat.toggle()">
+        Chat Now
+    </button>
+    <script src="https://cdn.botpress.cloud/webchat/v2.1/inject.js"></script>
+    <script src="https://mediafiles.botpress.cloud/3e5f5a65-f831-492c-a14b-b80592593bee/webchat/v2.1/config.js"></script>
+    <script>
+      window.addEventListener('load', () => {
+        window.botpressWebChat.init({
+            "composerPlaceholder": "Chat with our bot",
+            "botConversationDescription": "This chatbot is powered by Botpress",
+            "botId": "3e5f5a65-f831-492c-a14b-b80592593bee",
+            "hostUrl": "https://cdn.botpress.cloud/webchat/v2.1",
+            "messagingUrl": "https://messaging.botpress.cloud",
+            "clientId": "YOURb50cfdf7-4fb7-4afe-8aaa-d02cf5273cac",
+            "webhookId": "3e5f5a65-f831-492c-a14b-b80592593bee",
+            "lazySocket": true,
+            "themeName": "prism",
+            "frontendVersion": "v2",
+            "showPoweredBy": true,
+            "theme": "light",
+            "themeColor": "#2563EB"
+        });
+      });
+    </script>
+</body>
+</html>
