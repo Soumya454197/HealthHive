@@ -1,0 +1,153 @@
+/* General body styling with background image */
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    background: url('https://img.freepik.com/free-photo/health-still-life-with-copy-space_23-2148854031.jpg?size=626&ext=jpg&ga=GA1.1.2008272138.1727913600&semt=ais_hybrid') no-repeat center center fixed;
+    background-size: cover;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/* Container to center the glass-effect box */
+.container {
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+}
+
+/* Glassmorphism effect for the form */
+.glass-effect {
+    background: rgba(255, 255, 255, 0.1); /* More transparency */
+    backdrop-filter: blur(8px);
+    -webkit-backdrop-filter: blur(8px);
+    padding: 40px;
+    border-radius: 15px;
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+    border: 1px solid rgba(255, 255, 255, 0.2);
+    width: 100%;
+    max-width: 400px;
+    color: #000; /* Changed text color to black */
+    text-align: center;
+}
+
+/* Form styling */
+.login-form {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+}
+
+.login-form label {
+    margin-bottom: 8px;
+    font-size: 16px;
+    color: #000; /* Changed text color to black */
+    display: block;
+    text-align: left;
+}
+
+.login-form input[type="text"],
+.login-form input[type="password"] {
+    width: 100%;
+    padding: 12px;
+    margin-bottom: 20px;
+    border-radius: 10px;
+    border: 1px solid rgba(0, 0, 0, 0.2); /* Changed border color to black */
+    background-color: rgba(255, 255, 255, 0.3); /* More transparent */
+    color: #000; /* Changed text color to black */
+    font-size: 16px;
+}
+
+/* Extra options like Remember Me and Forgot Password */
+.extra-options {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 20px;
+    color: #000; /* Changed text color to black */
+    font-size: 14px;
+}
+
+.extra-options a {
+    color: #000; /* Changed text color to black */
+    text-decoration: none;
+}
+
+.extra-options a:hover {
+    text-decoration: underline;
+}
+
+/* Button styling */
+.form-buttons {
+    display: flex;
+    justify-content: space-between;
+}
+
+.login-form input[type="submit"],
+.login-form input[type="reset"] {
+    padding: 12px 20px;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+    border: none;
+    background-color: rgba(255, 255, 255, 0.3); /* More transparency */
+    color: #000; /* Changed text color to black */
+    transition: background-color 0.3s;
+}
+
+.login-form input[type="submit"]:hover {
+    background-color: rgba(0, 128, 0, 0.6);
+}
+
+.login-form input[type="reset"]:hover {
+    background-color: rgba(255, 0, 0, 0.6);
+}
+
+/* Register link */
+.register-link {
+    margin-top: 20px;
+}
+
+.register-link a {
+    color: #000; /* Changed text color to black */
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.register-link a:hover {
+    text-decoration: underline;
+}
+
+/* Form heading */
+.glass-effect h1 {
+    font-size: 30px;
+    margin-bottom: 20px;
+    color: #000; /* Changed heading color to black */
+}
+
+/* Responsive design for smaller screens */
+@media (max-width: 768px) {
+    .glass-effect {
+        width: 85%;
+        padding: 20px;
+    }
+
+    .login-form label {
+        font-size: 14px;
+    }
+
+    .login-form input[type="text"],
+    .login-form input[type="password"] {
+        font-size: 14px;
+    }
+
+    .login-form input[type="submit"],
+    .login-form input[type="reset"] {
+        font-size: 14px;
+    }
+}

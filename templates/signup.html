@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Login Page</title>
+    <link rel="stylesheet" href="signup.css">
+</head>
+<body>
+    <div class="container">
+        <div class="glass-effect">
+            <h1>Login</h1>
+            <form method="POST" class="login-form">
+                <label for="name">Username:</label>
+                <input type="text" id="name" name="name" placeholder="Enter your username" required>
+
+                <label for="password">Password:</label>
+                <input type="password" id="password" name="password" placeholder="Enter your password" required>
+
+                <div class="extra-options">
+                    <label>
+                        <input type="checkbox" name="remember" id="remember"> Remember me
+                    </label>
+                    <a href="#" class="forgot-password">Forgot password?</a>
+                </div>
+
+                <div class="form-buttons">
+                    <input type="submit" value="Login" class="submit-btn">
+                    <input type="reset" value="Reset All" class="reset-btn">
+                </div>
+
+                <div class="register-link">
+                    <p>Don’t have an account? <a href="#">Register</a></p>
+                </div>
+            </form>
+        </div>
+    </div>
+</body>
+</html>
